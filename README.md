@@ -50,3 +50,18 @@ Todo o planejamento foi consolidado em um dashboard visual e intuitivo, permitin
 
                                  Conclusão
 Mais do que números, este modelo mostra como planejamento financeiro bem estruturado conecta estratégia, operação e tomada de decisão, apoiando crescimento sustentável e controle de riscos.
+
+
+
+
+
+
+
+<img width="1635" height="788" alt="image" src="https://github.com/user-attachments/assets/05262712-f4f8-44d3-9703-df2935ae8a1f" />
+
+
+<img width="1161" height="491" alt="image" src="https://github.com/user-attachments/assets/a1104de8-a447-4467-9a80-ff611c5566ad" />
+
+
+<img width="1704" height="685" alt="image" src="https://github.com/user-attachments/assets/e18b474d-9eac-4f25-9c4f-b4db55fc496d" />
+
